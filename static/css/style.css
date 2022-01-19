@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    margin: auto;
+    background-color: black;
+    color: red;
+    width: 250px;
+    margin: auto;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.row {
+    margin: 0px;
+    padding: 0px;
+    justify-content: center;
+    display: flex;
+}
+
+.block1 {
+    height: 50px;
+    width: 50px;
+    background-color: black;
+    margin: 0px;
+    padding: 0px;
+    display: inline-block;
+}
+
+.block2 {
+    height: 50px;
+    width: 50px;
+    background-color: red;
+    margin: 0px;
+    padding: 0px;
+    display: inline-block;
+}
